@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "htOO77WHAPEyu1O591bXhsh1yfMrXq76nNhjV5oeaPrROXDI0SOIlge6bf5v9qW/ocigUKpof+hvmmN+qmuaGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kerem\\Desktop\\TCPClient\\TCPClient\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kerem\\.nuget\\packages\\supersimpletcp\\2.4.0\\supersimpletcp.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

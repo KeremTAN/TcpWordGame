@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TCPClient/1.0.0": {
+        "dependencies": {
+          "SuperSimpleTcp": "2.4.0"
+        },
+        "runtime": {
+          "TCPClient.dll": {}
+        }
+      },
+      "SuperSimpleTcp/2.4.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/SimpleTcp.dll": {
+            "assemblyVersion": "2.4.0.0",
+            "fileVersion": "2.4.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TCPClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SuperSimpleTcp/2.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R/qDlUNKudP3QgbJogEv/KYFsAqNNHHr9vcx5l0664itKPBJ4ghRIatnKFI5INgnvwfcpfoqKx5TjmkCp1c2iA==",
+      "path": "supersimpletcp/2.4.0",
+      "hashPath": "supersimpletcp.2.4.0.nupkg.sha512"
+    }
+  }
+}
