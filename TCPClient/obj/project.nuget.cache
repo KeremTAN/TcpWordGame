@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "wyimnHHK8/3gGvNQtcFgHOKnRrfkUTZEGjalyaG/ySwQXjaDXXORiXs/uqldDEcJoLzR6unCya0UUk1QbnWjGw==",
+  "dgSpecHash": "zTLcoy4Fr24cxT1OVyv+QzEUo/mR2kTD0R8cH9aROosQ0I1BVrgjJAnACZgOEiHkNs7tUenWVlsLQw26rl8dLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kerem\\Desktop\\TCPClient\\TCPClient\\TCPClient\\TCPClient.csproj",
+  "projectFilePath": "C:\\Users\\kerem\\Desktop\\TCPClient\\TCPClient\\TCPClient\\TCPClient\\TCPClient.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\kerem\\.nuget\\packages\\supersimpletcp\\2.4.0\\supersimpletcp.2.4.0.nupkg.sha512"
+    "C:\\Users\\kerem\\.nuget\\packages\\supersimpletcp\\2.4.0\\supersimpletcp.2.4.0.nupkg.sha512",
+    "C:\\Users\\kerem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512",
+    "C:\\Users\\kerem\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\kerem\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\kerem\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }
